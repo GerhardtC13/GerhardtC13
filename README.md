@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GerhardtC13
+- 👀 I’m interested in growing my knowledge about new tech, software and the code that resides behind it all.
+- 🌱 I’m currently learning PowerBi, Azure and looking to grow into more platforms / languages
